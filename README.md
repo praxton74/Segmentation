@@ -46,8 +46,6 @@ Detailed architecure is given below.
 3. Include lovasz loss with higher weightage.
 4. Learn and use Hypercolumns
 
-## Author:
-* Aditya Jain : [Portfolio](https://adityajain.me)
 
 ## To Read:
 1. [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf)
